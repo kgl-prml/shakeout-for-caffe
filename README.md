@@ -20,3 +20,12 @@ Please cite our `Shakeout` paper in your publications if it helps your research:
   year={2016}
 }
 ```
+```
+@article{kang2017shakeout,
+  title={Shakeout: A New Approach to Regularized Deep Neural Network Training},
+  author={Kang, Guoliang and Li, Jun and Tao, Dacheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2017},
+  publisher={IEEE}
+}
+```
